@@ -40,4 +40,4 @@ Development Tools
 
 ---
 
-## 📁 Project Structure
+⭐ If you like this project, don’t forget to star the repository!
