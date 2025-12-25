@@ -20,7 +20,7 @@ const ResumeSection = ({ showResume }) => {
 
         <a
           href={ResumePDF}
-          download="Harsh_Raj_Resume.pdf"
+          download="Harsh_Raj.pdf"
           className="inline-block mt-6 px-6 py-3 bg-gradient-to-r from-green-400 to-cyan-500 rounded-md font-semibold text-black hover:scale-105 transform transition-all duration-300">
           Download Resume
         </a>
